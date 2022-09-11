@@ -1,4 +1,4 @@
-# [Project Sunday]
+# Project Sunday
 
 This project was created to predict future stock prices using an LSTM model backed by Keras.
 
